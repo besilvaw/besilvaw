@@ -1,5 +1,4 @@
-Hey there! Bernardo here👋
-##
+<h1>Hey there! Bernardo here👋</h1>
 
 - 🖥️ Future front-end developer
 - 👨🏻‍💻 Tech entusiast
