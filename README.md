@@ -20,4 +20,10 @@ Currently studying information systems at UNISUL. I've always been close to tech
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
 
+##
+
+<div align="center"> 
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHRlM2syNnE4Mnh1ang4Z2hnMnlpcjdsdmJ5NDN0ZDEzMjl3bHVxNiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3qsz07TWCkKxbJlWuY/giphy.gif" alt="Kobe peace">
+</div>
+
 
